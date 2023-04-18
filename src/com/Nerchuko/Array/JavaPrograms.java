@@ -1,0 +1,10 @@
+package com.Nerchuko.Array;
+
+public class JavaPrograms {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
